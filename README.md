@@ -169,5 +169,5 @@ digital-clock-stopwatch-pcb/
 
 **Muhammad Shehroz Akhter**  
 B.S. Electrical Engineering — Computer Engineering Track  
-UET Lahore New Campus (Class of 2028)  
+UET Lahore New Campus (Class of 2024-2028)  
 [GitHub](https://github.com/EngrShehrozAkhterCh)
